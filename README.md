@@ -6,6 +6,7 @@
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~012a87307d47b07b85?mp_source=share)
 [![Instagram](https://img.shields.io/badge/Instagram-aryan.\_.bhatnagar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aryan._.bhatnagar/)
 [![Email](https://img.shields.io/badge/Email-aryanmain69%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanmain69@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Byks1B4HzgwZhPY2X0SRLHHb-Asdwjt2/view?usp=sharing)
 
 [![Profile views](https://komarev.com/ghpvc/?username=Aryan-Bhatnagar&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Aryan-Bhatnagar)
 
@@ -18,8 +19,8 @@ I'm a **DevOps Engineer** who loves building resilient CI/CD pipelines, automati
 - 🔭 Currently working on **CI/CD pipelines, container orchestration & infrastructure security**
 - 🌱 Currently learning **AI & Data Science** (Minor at IIT Mandi)
 - 💬 Ask me about **AWS, Docker, Kubernetes, Jenkins, GitHub Actions, Terraform & Ansible**
-- 📄 Resume: [![Resume](https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Byks1B4HzgwZhPY2X0SRLHHb-Asdwjt2/view?usp=sharing)
 - ⚡ Fun fact: I've competed and won medals in national eSports championships 🎮
+- 📄[![Resume](https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Byks1B4HzgwZhPY2X0SRLHHb-Asdwjt2/view?usp=sharing)
 
 ---
 
