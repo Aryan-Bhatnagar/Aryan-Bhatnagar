@@ -18,7 +18,7 @@ I'm a **DevOps Engineer** who loves building resilient CI/CD pipelines, automati
 - 🔭 Currently working on **CI/CD pipelines, container orchestration & infrastructure security**
 - 🌱 Currently learning **AI & Data Science** (Minor at IIT Mandi)
 - 💬 Ask me about **AWS, Docker, Kubernetes, Jenkins, GitHub Actions, Terraform & Ansible**
-- 📄 Resume: *https://drive.google.com/file/d/1Byks1B4HzgwZhPY2X0SRLHHb-Asdwjt2/view?usp=sharing*
+- 📄 Resume: [![Resume](https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Byks1B4HzgwZhPY2X0SRLHHb-Asdwjt2/view?usp=sharing)
 - ⚡ Fun fact: I've competed and won medals in national eSports championships 🎮
 
 ---
